@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ItemsInventario>
+	<ItemsInventario ID = "xmltut_small_sword" Type ="weapon">
+		<TituloItem>Espada pequeña</TituloItem>
+		<ItemDescripcion>Esta es la primera espada que encuentras en tu viaje. No muy poderosa, pero siempre estará a tu lado.</ItemDescripcion>
+		<Color>
+			<r>167</r>
+			<g>167</g>
+			<b>167</b>
+			<a>255</a>
+		</Color>
+		<IMAGEN>smallsword</IMAGEN>
+	</ItemsInventario>
+
+	<ItemsInventario ID = "xmltut_steel_helmet" Type = "armor">
+		<TituloItem>Casco de acero</TituloItem>
+		<ItemDescripcion>Este casco elaborado con acero brillante seguramente protegerá tu cabeza en la batalla.</ItemDescripcion>
+		<Color>
+			<r>19</r>
+			<g>218</g>
+			<b>0</b>
+			<a>255</a>
+		</Color>
+		<IMAGEN>steelhelmet</IMAGEN>
+	</ItemsInventario>
+
+	<ItemsInventario ID = "xmltut_health_potion_50" Type = "consumable">
+		<TituloItem>Pocion pequeña</TituloItem>
+		<ItemDescripcion>Restaura 50 de vida.</ItemDescripcion>
+		<Color>
+			<r>19</r>
+			<g>218</g>
+			<b>0</b>
+			<a>255</a>
+		</Color>
+		<IMAGEN>50healthpot</IMAGEN>
+	</ItemsInventario>
+
+	<ItemsInventario ID = "xmltut_big_sword" Type = "weapon">
+		<TituloItem>Espada legendaria</TituloItem>
+		<ItemDescripcion>La espada legendaria matará a todos los enemigos en tu camino con facilidad. Debido a su tamaño, puede que su movimiento sea lento.</ItemDescripcion>
+		<Color>
+			<r>255</r>
+			<g>255</g>
+			<b>0</b>
+			<a>255</a>
+		</Color>
+		<IMAGEN>bigsword</IMAGEN>
+	</ItemsInventario>
+
+	<ItemsInventario ID = "xmltut_bow" Type ="weapon">
+		<TituloItem>Arco recurvo</TituloItem>
+		<ItemDescripcion>¡Dispara a los enemigos desde una distancia segura con el arco recurvo! ¡No olvides traer suficientes flechas!</ItemDescripcion>
+		<Color>
+			<r>69</r>
+			<g>169</g>
+			<b>255</b>
+			<a>255</a>
+		</Color>
+		<IMAGEN>recurvebow</IMAGEN>
+	</ItemsInventario>
+
+	<ItemsInventario ID = "xmltut_chain_mail" Type = "armor">
+		<TituloItem>Cota de malla</TituloItem>
+		<ItemDescripcion>Esta armadura ligera te protegerá de pequeños impactos.</ItemDescripcion>
+		<Color>
+			<r>19</r>
+			<g>218</g>
+			<b>0</b>
+			<a>255</a>
+		</Color>
+		<IMAGEN>chainmail</IMAGEN>
+	</ItemsInventario>
+
+	<ItemsInventario ID = "xmltut_health_potion_100" Type = "consumable">
+		<TituloItem>Pocion grande</TituloItem>
+		<ItemDescripcion>Restaura 100 de vida.</ItemDescripcion>
+		<Color>
+			<r>69</r>
+			<g>169</g>
+			<b>255</b>
+			<a>255</a>
+		</Color>
+		<IMAGEN>100healthpot</IMAGEN>
+	</ItemsInventario>
+
+	<ItemsInventario ID = "xmltut_wood_shield" Type = "armor">
+		<TituloItem>Escudo de madera</TituloItem>
+		<ItemDescripcion>Este escudo te protege de impactos de fuerza pequeña y media cuando no estás atacando.</ItemDescripcion>
+		<Color>
+			<r>19</r>
+			<g>218</g>
+			<b>0</b>
+			<a>255</a>
+		</Color>
+		<IMAGEN>woodshield</IMAGEN>
+	</ItemsInventario>
+</ItemsInventario>
